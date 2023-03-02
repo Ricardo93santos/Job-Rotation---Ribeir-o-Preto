@@ -14,5 +14,5 @@ d) A lógica é adicionar 4 ao quadrado do índice de cada elemento, iniciando c
 e) A lógica é somar os dois números anteriores. O próximo número é 13.
 f) Existe duas lógicas:
   1-Onde o valor do segundo índice é o primeiro índice multiplicado por 5, o valor do terceiro é a soma do segundo com primero e o valor do quarto é o valor do primeiro índice multiplicado por ele mesmo e somado com o valor do terceiro índice.
-  2- apartir do quinto índice é somado o valor por 1 ao ídice anterior. O próximo número é 20.
+  2- a partir do quinto índice é somado o valor por 1 ao índice anterior. O próximo número é 20.
 */
